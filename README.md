@@ -1,4 +1,4 @@
-# Avraam · Presentations & documents
+#  Presentations & documents
 
 ![Портфолио](previews/cover.png)
 
