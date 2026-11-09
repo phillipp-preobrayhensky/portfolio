@@ -1,62 +1,62 @@
 #  Presentations & documents
 
-![Портфолио](previews/cover.png)
+![Portfolio](previews/cover.png)
 
-Презентации, тексты, таблицы и небольшие цифровые инструменты. Помогаю представить идею и упростить рабочую задачу. Здесь собраны **демонстрационные проекты, подготовленные с ИИ**. Это не клиентские заказы и не подтверждение коммерческого опыта.
+Presentations, texts, spreadsheets and small digital tools. I help present ideas and simplify work tasks. This collection contains **demonstration projects prepared with AI**. These are not client commissions or evidence of commercial experience.
 
-[Открыть портфолио PDF](files/Portfolio_Avraam_Final.pdf) · [Редактируемое портфолио PPTX](files/Portfolio_Avraam_Final.pptx)
+[Open the portfolio PDF](files/Portfolio_Avraam_Final.pdf) · [Editable portfolio PPTX](files/Portfolio_Avraam_Final.pptx)
 
-## 01 · Презентация для клиента
+## 01 · Client presentation
 
-**Задача:** превратить неструктурированное описание в памятку о подготовке материалов.
+**Task:** turn an unstructured description into a guide to preparing materials.
 
-**Результат:** пять редактируемых слайдов, единые цвета и типографика, понятные этапы согласования. Макет проверен, подготовлена версия для просмотра.
+**Result:** five editable slides, consistent colors and typography, and clear approval stages. The layout has been checked, and a viewing version has been prepared.
 
-![Презентация](previews/presentation.png)
+![Presentation](previews/presentation.png)
 
 [PowerPoint](files/Presentation_Brief_Demo_Final.pptx) · [PDF](files/Presentation_Brief_Demo_Final.pdf)
 
-## 02 · Документ и редактура
+## 02 · Document and editing
 
-**Задача:** собрать инструкцию, сохранив требования исходного текста.
+**Task:** compile instructions while preserving the requirements of the original text.
 
-**Результат:** две страницы, таблица материалов, шаги согласования и пример «до/после» с объяснением изменений. Готовые факты не выдумывались; источник задания создан специально для демонстрации.
+**Result:** two pages, a table of materials, approval steps and a before/after example explaining the changes. No facts were fabricated; the source brief was created specifically for the demonstration.
 
-![Документ](previews/document.png)
+![Document](previews/document.png)
 
-[Word](files/Client_Brief_Guide.docx) · [PDF](files/Client_Brief_Guide.pdf) · [Текст до/после](files/Editing_Before_After.txt)
+[Word](files/Client_Brief_Guide.docx) · [PDF](files/Client_Brief_Guide.pdf) · [Before/after text](files/Editing_Before_After.txt)
 
-## 03 · Учёт заявок в Excel
+## 03 · Request tracking in Excel
 
-**Задача:** видеть статусы, бюджет и оплату небольшого списка заявок.
+**Task:** track statuses, budgets and payments for a small list of requests.
 
-**Результат:** фильтры, выпадающие статусы, формулы остатка и четыре сводных показателя. В примере 12 вымышленных заявок: 40 200 ₽ бюджета, 16 900 ₽ оплаты, 23 300 ₽ разницы. Пересчёт при изменении ввода проверен.
+**Result:** filters, dropdown statuses, outstanding-balance formulas and four summary metrics. The example contains 12 fictional requests: a budget of ₽40,200, payments of ₽16,900 and a difference of ₽23,300. Recalculation after input changes has been tested.
 
-![Таблица](previews/tracker.png)
+![Spreadsheet](previews/tracker.png)
 
-[Excel](files/Requests_Tracker.xlsx) · [PDF-превью](files/Requests_Tracker_Preview.pdf)
+[Excel](files/Requests_Tracker.xlsx) · [PDF preview](files/Requests_Tracker_Preview.pdf)
 
-Демонстрация рассчитана на 12 строк. При расширении нужно изменить диапазоны сводных формул и продолжить формулы остатка. Разница бюджета и оплаты не является прогнозом дохода. Нет макросов и внешних подключений.
+The demonstration is designed for 12 rows. To expand it, update the summary formula ranges and extend the outstanding-balance formulas. The difference between the budget and payments is not an income forecast. There are no macros or external connections.
 
-## 04 · Деловое сообщение RU / EN / DE
+## 04 · Business message RU / EN / DE
 
-Один короткий текст о согласовании презентации: смысл, порядок действий и вежливый тон сохранены в трёх версиях. Это общая деловая переписка, не заверенный или специализированный перевод.
+One short text about approving a presentation: the meaning, sequence of actions and polite tone are preserved in all three versions. This is general business correspondence, not a certified or specialized translation.
 
-[Тексты и терминология](files/Client_Message_RU_EN_DE.md) · [PDF](files/Client_Message_RU_EN_DE.pdf)
+[Texts and terminology](files/Client_Message_RU_EN_DE.md) · [PDF](files/Client_Message_RU_EN_DE.pdf)
 
-## 05 · Небольшая автоматизация
+## 05 · Small-scale automation
 
-[Catalog CSV Checker](https://github.com/phillipp-preobrayhensky/catalog-csv-checker) — отдельный учебный репозиторий с кодом и девятью тестами. Проверяет CSV перед импортом и объясняет отклонённые строки.
+[Catalog CSV Checker](https://github.com/phillipp-preobrayhensky/catalog-csv-checker) — a separate educational repository with code and nine tests. It checks CSV files before import and explains rejected rows.
 
-## 06 · ИИ, контент и открытая информация
+## 06 · AI, content and public information
 
-[Демонстрационный контент-план, три текста и повторно используемый промпт](files/Content_AI_Demo.md).
+[Demonstration content plan, three texts and a reusable prompt](files/Content_AI_Demo.md).
 
-Дополнительные направления: поиск и структурирование открытой информации, краткие обзоры и сравнения, шаблоны задач для ИИ.
+Additional areas: finding and structuring public information, brief reviews and comparisons, and AI task templates.
 
-## 07 · Сайты и Telegram-боты
+## 07 · Websites and Telegram bots
 
-Небольшие прототипы по согласованному заданию: каталог, форма заявки, сценарий бота, напоминания. Python с ИИ, Telegram, Git / GitHub, Supabase. Интеграции, хостинг и поддержка обсуждаются отдельно.
+Small prototypes based on an agreed brief: a catalog, request form, bot flow or reminders. AI-assisted Python, Telegram, Git / GitHub, Supabase. Integrations, hosting and support are discussed separately.
 
-Reelsy — проект Telegram-помощника для SMM в разработке. CoinScan — проект каталога монет на стадии концепции и развития. Эти проекты не выдаются за завершённые клиентские заказы.
+Reelsy is a Telegram assistant project for social media marketing, currently in development. CoinScan is a coin catalog project at the concept and development stage. These projects are not presented as completed client commissions.
 
